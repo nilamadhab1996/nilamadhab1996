@@ -2,13 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1F6CB3&center=true&vCenter=true&width=435&lines=Hi%2C+Nilamadhab+Purohit;DevOps+Engineer+%26+Implementation+Analyst;Always+learning+K8s+%26+Cloud!+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  
-[![Visitors](https://visit-counter.oday.app/visitor-badge/1?url=nilamadhabpurohit/nilamadhabpurohit&repo=nilamadhabpurohit/nilamadhabpurohit&countColor=%23263759&titleColor=%231F6CB3&iconColor=%23F9D342&textColor=%23FFFFFF&bgColor=%23FFFFFF&borderColor=%23F5821F&badgeBgColor=%23F5821F)](https://github.com/odayalegre/visit-counter)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nilamadhabpurohit&theme=radical&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilamadhabpurohit&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/Anuraghazra/github-readme-stats)
-  
-</div>
 
 ## 👨‍💻 About Me
 
@@ -52,7 +45,7 @@ Senior Implementation Analyst & DevOps Engineer at **Zeta** with **6+ years** to
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nilamadhab-purohit)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nilamadhabpurohit@outlook.com)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nilamadhabpurohit&color=1F6CB3&style=flat-square" alt="Profile Views" />
