@@ -1,3 +1,9 @@
+# **Nilamadhab Purohit**
+----
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1F6CB3&center=true&vCenter=true&width=600&lines=I%27m+an+SRE+%26+DevOps+Engineer;Automation+Specialist;Cloud+%26+Infrastructure+Expert+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1F6CB3&center=true&vCenter=true&width=600&lines=Hi%2C+Nilamadhab+Purohit;DevOps+Engineer+%26+Implementation+Analyst;Always+learning+K8s+%26+Cloud!+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
