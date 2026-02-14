@@ -1,6 +1,5 @@
-<div align="center">
-<img src="https://raw.githubusercontent.com/NilamadhabPurohit/NilamadhabPurohit/main/Nilamadhab@terminal.gif" width="600" alt="terminal"/>
-</div>
+<img width="2048" height="596" alt="image" src="https://github.com/user-attachments/assets/cba96f47-abbf-48d4-b912-f3545a606826" />
+
 
 ----
 <div align="center">
