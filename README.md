@@ -1,5 +1,4 @@
-<img width="2048" height="596" alt="image" src="https://github.com/user-attachments/assets/cba96f47-abbf-48d4-b912-f3545a606826" />
-
+# **Nilamadhab Purohit**
 
 ----
 <div align="center">
