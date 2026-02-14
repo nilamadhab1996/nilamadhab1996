@@ -1,4 +1,6 @@
-# &lines=Nilamadhab+Purohit;SRE+%26+DevOps+%40+Zeta;Automation+Cloud+Expert+%F0%9F%9A%80
+<div align="center">
+<img src="https://raw.githubusercontent.com/NilamadhabPurohit/NilamadhabPurohit/main/Nilamadhab@terminal.gif" width="600" alt="terminal"/>
+</div>
 
 ----
 <div align="center">
