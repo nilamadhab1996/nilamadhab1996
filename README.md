@@ -1,69 +1,61 @@
-# 👋 Hi, I'm Nilamadhab Purohit
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1F6CB3&center=true&vCenter=true&width=435&lines=Hi%2C+Nilamadhab+Purohit;DevOps+Engineer+%26+Implementation+Analyst;Always+learning+K8s+%26+Cloud!+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
-🚀 DevOps Enthusiast | Linux | AWS | Cloud | Automation | Shell Scripting  
+<div align="center">
+  
+[![Visitors](https://visit-counter.oday.app/visitor-badge/1?url=nilamadhabpurohit/nilamadhabpurohit&repo=nilamadhabpurohit/nilamadhabpurohit&countColor=%23263759&titleColor=%231F6CB3&iconColor=%23F9D342&textColor=%23FFFFFF&bgColor=%23FFFFFF&borderColor=%23F5821F&badgeBgColor=%23F5821F)](https://github.com/odayalegre/visit-counter)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nilamadhabpurohit&theme=radical&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilamadhabpurohit&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/Anuraghazra/github-readme-stats)
+  
+</div>
 
-I am a passionate IT professional with 6+ years of experience in production support, troubleshooting, and system implementation.  
-Currently transitioning into **DevOps and Cloud Engineering**, focusing on automation, reliability, and scalable systems.
+## 👨‍💻 About Me
 
----
+Senior Implementation Analyst & DevOps Engineer at **Zeta** with **6+ years** total experience (**3.6 years** in DevOps). Passionate about cloud infrastructure, Kubernetes orchestration, and zero-downtime deployments. Achieved **99.99% uptime** on critical payment systems.[cite:2][cite:3][cite:6]
 
-## 🔥 About Me
+- 🌱 Currently pursuing **CKA (Certified Kubernetes Administrator)** and mastering **Helm** for package management.
+- 💼 Expertise in client onboarding, AWS migrations, Prometheus/CloudWatch monitoring, and chaos testing.
+- 📈 Side interests: Stock market analysis & trading.
+- 🏠 Based in Bengaluru, India.
 
-- 💻 Senior Implementation Engineer with strong troubleshooting skills
-- ☁️ Learning AWS, Linux, Networking, and DevOps tools
-- 🛠️ Hands-on with shell scripting, system monitoring, and debugging
-- 📈 Currently building projects and learning in public through **#90DaysOfDevOps**
-- 🎯 Goal: Become a DevOps / Cloud Engineer
+## 🛠️ Core Skills
 
----
+| Category | Technologies |
+|----------|--------------|
+| **Cloud** | AWS (EC2, S3, RDS, CloudWatch), EKS |
+| **Containers & Orchestration** | Kubernetes, Docker, Helm, ArgoCD |
+| **CI/CD & Automation** | Jenkins, Git, Terraform (Basic), GitOps |
+| **Monitoring** | Prometheus, Grafana |
+| **Languages** | Python, Bash, SQL |
+| **Processes** | Agile/Scrum, Change Management, IaC |[cite:8]
 
-## 🧠 Current Learning Journey
+## 📈 GitHub Stats
 
-- Linux & Networking Fundamentals  
-- Shell Scripting & Automation  
-- AWS Core Services  
-- CI/CD & Infrastructure as Code  
-- Kubernetes & Containers  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nilamadhabpurohit&show_icons=true&theme=radical&locale=en" alt="stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nilamadhabpurohit&theme=radical" alt="streak" width="38%" />
+</div>
 
----
+## 🌟 Achievements & Certifications
 
-## 📂 Projects
+- **AWS Certified Cloud Practitioner**[cite:6]
+- Managed production DataHub deployments on EKS[cite:5]
+- Implemented alerting/monitoring with Python automation[cite:6]
 
-Here are some of my hands-on learning repositories:
+## 🚀 Currently Learning
 
-- 🔹 Linux & Shell Scripting  
-- 🔹 Networking & Troubleshooting  
-- 🔹 AWS & Cloud Basics  
-- 🔹 DevOps Real-World Labs  
-
-👉 Check my repositories to see my daily progress.
-
----
-
-## 🛠️ Skills
-
-### 🖥️ Operating Systems
-Linux (Ubuntu, Amazon Linux)
-
-### ☁️ Cloud
-AWS (EC2, S3, IAM, VPC – Learning)
-
-### 🔧 Tools
-Git, GitHub, Docker (Learning), Bash
-
-### 🌐 Networking
-TCP/IP, DNS, Ports, Troubleshooting
-
-### 📊 Monitoring & Debugging
-Logs analysis, production issue handling
-
----
+- Advanced Kubernetes (CKA prep)
+- Chaos Engineering & GitOps with ArgoCD
+- Full-stack DevOps automation
 
 ## 📫 Connect With Me
 
-- 🔗 LinkedIn: https://linkedin.com/in/nilamadhab-purohit  
-- 📧 Email: nilamadhabpurohit@outlook.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nilamadhab-purohit)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
----
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nilamadhabpurohit&color=1F6CB3&style=flat-square" alt="Profile Views" />
+</div>
 
-⭐️ From [nilamadhab1996](https://github.com/nilamadhab1996)
+**Thanks for visiting! Let's collaborate on DevOps projects 🚀**
