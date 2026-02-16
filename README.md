@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-Senior Implementation Analyst & DevOps Engineer at **Zeta** with **6+ years** total experience (**3.6 years** in DevOps). Passionate about cloud infrastructure, Kubernetes orchestration, and zero-downtime deployments. Achieved **99.99% uptime** on critical payment systems.[cite:2][cite:3][cite:6]
+Senior Implementation Analyst & DevOps Engineer at **Zeta** with **6+ years** total experience (**3.6 years** in DevOps). Passionate about cloud infrastructure, Kubernetes orchestration, and zero-downtime deployments. Achieved **99.99% uptime** on critical payment systems.
 
 - 🌱 Currently pursuing **CKA (Certified Kubernetes Administrator)** and mastering **Helm** for package management.
 - 💼 Expertise in client onboarding, AWS migrations, Prometheus/CloudWatch monitoring, and chaos testing.
