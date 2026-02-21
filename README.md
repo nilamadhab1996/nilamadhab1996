@@ -9,44 +9,71 @@
 [![Zeta](https://img.shields.io/badge/Zeta-Featured%20Employee-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/zetasuite_meet-nilamadhabone-who-owns-his-work-activity-7169244417193656320-QQmF)
 > "Meet Nilamadhab - one who owns his work" — Zeta Suite
 
-## 👨‍💻 About Me
+## 🚀 Key Projects
 
-Senior Implementation Analyst & DevOps Engineer at **Zeta** with **6+ years** total experience (**3.6 years** in DevOps). Passionate about cloud infrastructure, Kubernetes orchestration, and zero-downtime deployments. Achieved **99.99% uptime** on critical payment systems.
+### 🔹 Production Kubernetes Platform
+- Built and managed EKS clusters for critical fintech workloads.
+- Implemented **GitOps using ArgoCD** for zero-downtime deployments.
+- Designed observability using **Prometheus, Grafana, and CloudWatch**.
 
-- 🌱 Currently pursuing **CKA (Certified Kubernetes Administrator)** and mastering **Helm** for package management.
-- 💼 Expertise in client onboarding, AWS migrations, Prometheus/CloudWatch monitoring, and chaos testing.
-- 📈 Side interests: Stock market analysis & trading.
-- 🏠 Based in Bengaluru, India.
+### 🔹 Automated Monitoring & Incident Response
+- Developed Python automation for log analysis and alerting.
+- Improved MTTR and reduced manual intervention.
 
-## 🛠️ Core Skills
+### 🔹 AWS Migration & Optimization
+- Migrated legacy systems to AWS.
+- Improved reliability and optimized infrastructure costs.
 
-| Category | Technologies |
-|----------|--------------|
-| **Cloud** | AWS (EC2, S3, RDS, CloudWatch), EKS |
-| **Containers & Orchestration** | Kubernetes, Docker, Helm, ArgoCD |
-| **CI/CD & Automation** | Jenkins, Git, Terraform (Basic), GitOps |
-| **Monitoring** | Prometheus, Grafana |
-| **Languages** | Python, Bash, SQL |
-| **Processes** | Agile/Scrum, Change Management, IaC |[cite:8]
+---
 
-## 📈 GitHub Stats
+## ⚡ Focus Areas
+- Cloud Native Infrastructure
+- Kubernetes & Container Orchestration
+- Reliability Engineering & Observability
+- CI/CD & GitOps
+- Infrastructure as Code & Automation
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nilamadhabpurohit&show_icons=true&theme=radical&locale=en" alt="stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nilamadhabpurohit&theme=radical" alt="streak" width="38%" />
-</div>
+---
 
-## 🌟 Achievements & Certifications
+## 🛠️ Tech Stack
 
-- **AWS Certified Cloud Practitioner**[cite:6]
-- Managed production DataHub deployments on EKS[cite:5]
-- Implemented alerting/monitoring with Python automation[cite:6]
+**Cloud:** AWS (EC2, S3, RDS, CloudWatch), EKS  
+**Containers:** Kubernetes, Docker, Helm  
+**CI/CD:** Jenkins, GitHub Actions, ArgoCD  
+**Monitoring:** Prometheus, Grafana  
+**Automation:** Python, Bash  
+**IaC:** Terraform (Basic)  
+**Processes:** Agile, Change Management  
 
-## 🚀 Currently Learning
+---
 
-- Advanced Kubernetes (CKA prep)
-- Chaos Engineering & GitOps with ArgoCD
-- Full-stack DevOps automation
+## 📊 Reliability & SRE Experience
+- High availability and fault-tolerant system design  
+- Incident management and root cause analysis  
+- Monitoring, alerting, and observability  
+- Zero-downtime deployments  
+- Chaos engineering experiments  
+
+---
+
+## 🌱 Currently Learning
+- Advanced Kubernetes (CKA)
+- Chaos Engineering
+- Platform Engineering & GitOps
+- Scalable system design
+
+---
+
+## 🌍 Community & Open Source
+- Exploring contributions in the Kubernetes ecosystem.
+- Writing technical content on DevOps and reliability.
+
+---
+
+## 🎯 Career Goals
+Looking for **SRE / DevOps / Platform Engineer roles** where I can design scalable systems, improve reliability, and automate infrastructure.
+
+---
 
 ## 📫 Connect With Me
 
